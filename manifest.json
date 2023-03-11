@@ -1,0 +1,7 @@
+{
+    "manifest_version": 2,
+    "name": "Saras",
+    "version": "1.0",
+
+    "description": "Left-click the fox near the reload button to save your current tabs open, then scroll-click to re-open them in the same tab. Additionally, you can SHIFT + scroll-click to re-open tabs in another browser."
+}
