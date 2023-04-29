@@ -1,7 +1,16 @@
 {
     "manifest_version": 2,
-    "name": "Saras",
+    "name": "saras",
     "version": "1.0",
 
-    "description": "Left-click the fox near the reload button to save your current tabs open, then scroll-click to re-open them in the same tab. Additionally, you can SHIFT + scroll-click to re-open tabs in another browser."
+    "description": "Its a button + popup for now.",
+
+    "browser_action": {
+        "browser_style": true,
+        "default_popup": "popup/choose_page.html",
+        "default_icon": {
+            "16": "icons/page-16.png",
+            "32": "icons/page-32.png"
+        }
+    }
 }
