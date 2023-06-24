@@ -3,7 +3,7 @@
     "name": "saras",
     "version": "1.0",
 
-    "description": "Its a button + popup for now.",
+    "description": "Allows quick access to URL textbooks or .pdfs.",
 
     "browser_action": {
         "browser_style": true,
