@@ -4,9 +4,9 @@ body {
 }
 
 .page-choice {
-  width: 100%;
-  padding: 3px;
-  font-size: 1.5em;
+  min-width: 100%;
+  padding: 8px;
+  font-size: 2em;
   text-align: center;
   cursor: pointer;
   font-family: "ＭＳ Ｐゴシック";
